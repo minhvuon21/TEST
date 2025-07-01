@@ -17,6 +17,9 @@ import org.springframework.security.web.SecurityFilterChain;
 public class dangnhap {
     // day lan 1
     // day lan 21
+    // day lan 21 nhanh moi
+// day lan 21 nhanh moi
+// day lan 21 nhanh moi
     @Bean
     public PasswordEncoder passwordEncoder() {
         return PasswordEncoderFactories.createDelegatingPasswordEncoder();
